@@ -8,7 +8,7 @@
   6. [Link](#Link)
 
 ## Description
-This is a small tech blog thrown together to use Sequalize, Express.js, Node, Bycript, and other tools.
+This is a small tech blog thrown together to use Sequalize, Express.js, Node, Bycript, and other tools. It's primary use is to allow clients to create new profiles, create posts, and comment on other user's posts.
 
 ## UserStory
 AS A manager at an internet retail company
