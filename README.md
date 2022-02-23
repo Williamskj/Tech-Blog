@@ -1,4 +1,4 @@
-# ORM E-Commece Backend
+# Tech Blog
 
 ## Table of Contents:
   1. [Description](#description) 
